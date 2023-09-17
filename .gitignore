@@ -1,0 +1,8 @@
+*.txt
+Email_details
+logs
+#dotenv
+.env
+*.jar
+#vscode
+.vscode
